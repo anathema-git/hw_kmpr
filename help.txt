@@ -1,0 +1,2 @@
+how to solution 401 response
+https://ru.stackoverflow.com/questions/1533583/web-scraping-При-парсинге-данных-ошибки-400-401-и-403
