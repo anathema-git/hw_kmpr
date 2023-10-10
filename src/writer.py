@@ -1,7 +1,7 @@
 import xlsxwriter
 
 def writer(parametr):
-    book = xlsxwriter.Workbook("Output.xlsx")
+    book = xlsxwriter.Workbook("Output_test.xlsx")
     page = book.add_worksheet("data")
 
     row, column = 0, 0
